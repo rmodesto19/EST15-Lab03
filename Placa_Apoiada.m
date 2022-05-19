@@ -39,5 +39,5 @@ if mode == 1
     
     tabela = table(N_final,M_final)
 elseif mode == 2
-    
+    % TODO: encontrar deslocamentos a partir da tensão e momento
 end
