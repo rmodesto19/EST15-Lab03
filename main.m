@@ -5,7 +5,7 @@ Placa_Apoiada
 caso = 1;
 disp('-- Experimento 1 --')
 load('exp_result1.mat')
-%graficos
+graficos
 LVDT
 desloc
 rosetaAten
