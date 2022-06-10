@@ -1,4 +1,5 @@
 % Setup
+extract
 load('extract.mat')
 for caso = 1:2
     if caso == 1
@@ -39,6 +40,7 @@ for caso = 1:2
 end
 
 clear
+main
 
 function w = navier(x,y,l1,l2,amn)
     x = x/l1;
